@@ -9,8 +9,11 @@ import SwiftUI
 
 struct AddView: View {
 	@Environment(\.dismiss) var dismiss
+	
 	@EnvironmentObject var listViewModel: ListViewModel
+	
 	@State private var alertTitle: String = ""
+	
 	@State private var showAlert = false
 
 	@State var textFieldText: String = ""
