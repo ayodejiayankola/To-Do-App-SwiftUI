@@ -44,7 +44,12 @@ Explore the app's intuitive interface to manage your tasks effortlessly. Enjoy t
 
 ## Video Walkthrough
 
-[Watch the video walkthrough here](#) <!-- Add the link to your video walkthrough -->
+
+
+https://github.com/ayodejiayankola/To-Do-App-SwiftUI/assets/28652438/9bc5f20c-dbec-4a75-9991-fb0d8d2e7a96
+
+
+
 
 ## Contributing
 
